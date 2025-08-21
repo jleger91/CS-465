@@ -24,14 +24,14 @@ database.
 
 
 
-Testing
+TESTING
 
 Testing was the use of console log messages and running Postman and asking for help.
 I ran into a lot of errors midway through the project and didn't address them so the bugs piled up.
 
 
 
-Reflection
+REFLECTION
 
 This course has taught me that many problems will occur and I should solve them as soon as possible.
 In this course I explored Express, Angular, JSON, Javascript, etc and became familiar with new things
